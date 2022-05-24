@@ -1,0 +1,15 @@
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\bin\Debug\net6.0\clase de repaso1.exe
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\bin\Debug\net6.0\clase de repaso1.deps.json
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\bin\Debug\net6.0\clase de repaso1.runtimeconfig.json
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\bin\Debug\net6.0\clase de repaso1.dll
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\bin\Debug\net6.0\clase de repaso1.pdb
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.dll
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\refint\clase de repaso1.dll
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.pdb
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\clase de repaso1.genruntimeconfig.cache
+C:\Users\Agustin\source\repos\clase de repaso1\clase de repaso1\obj\Debug\net6.0\ref\clase de repaso1.dll
